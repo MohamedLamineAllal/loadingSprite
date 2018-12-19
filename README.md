@@ -4,7 +4,7 @@ This is a simple boiler plate to start a js library project, with gulp automatio
 
 (current gulp version = 4)
 
-Watcher (update only the changed added files)
+Watcher (update only the changed or added files)
 
 
 ```
