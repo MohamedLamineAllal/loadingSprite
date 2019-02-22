@@ -1,6 +1,6 @@
 {
   "name": "loading-sprite",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A library with a consise api, to manipulate spinners, show, hide, and all different kind of asspects (show, hide, back black or not black background, precise container you want to show the spinner on, possibility for precising your own loader dom, classes names ...). Simple and easy. Laverage by default beautiful spinner. As it offer by default the SpinKit project 11 spinner",
   "main": "dist/loadingSprite.min.js",
   "directories": {
