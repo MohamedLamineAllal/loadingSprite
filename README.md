@@ -74,8 +74,13 @@ setTimeout(() => {
 
 You can check the test here: https://github.com/MohamedLamineAllal/loadingSprite/tree/master/test
 
+
+
 # NOTE
 [
     This micro library is just a small work. And for the spinners it use the great work from the spinKIT project.  It's too simple.  I may add more features along the days. If you have any feature in mind, fill an issue. Any suggestion and recomendation are appreciated. 
+
+    Here the awsome project i based on the package
+    https://github.com/tobiasahlin/SpinKit
 ]
 
