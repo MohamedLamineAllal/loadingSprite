@@ -1,18 +1,23 @@
 {
-  "name": "laravel-mix-glob",
+  "name": "loading-sprite",
   "version": "1.0.0",
-  "description": "Laravel mix extension that add support for glob. It wrap nicely around laravel mix. Add the glob feature, with some cool features. And allow an easy access to laravel mix instance too. Simple api. ",
-  "main": "dist/laravelMixGlob.min.js",
+  "description": "A library with a consise api, to manipulate spinners, show, hide, and all different kind of asspects (show, hide, back black or not black background, precise container you want to show the spinner on, possibility for precising your own loader dom, classes names ...). Simple and easy. Laverage by default beautiful spinner. As it offer by default the SpinKit project 11 spinner",
+  "main": "dist/loadingSprite.min.js",
   "directories": {
-    "example": "example"
-  },
-  "dependencies": {
-    "gulp": "^4.0.0",
-    "gulp-uglify": "^3.0.1"
+    "examples": "examples"
   },
   "devDependencies": {
     "colors": "^1.3.3",
-    "gulp-rename": "^1.4.0"
+    "express": "^4.16.4",
+    "gulp": "^4.0.0",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-jsbeautifier": "^2.1.2",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-strip-comments": "^2.5.2",
+    "gulp-uglify": "^3.0.1",
+    "node-sass": "^4.11.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

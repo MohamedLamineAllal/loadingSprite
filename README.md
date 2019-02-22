@@ -1,20 +1,18 @@
-# Lib project boiler
+# LoadingSprite
 
-This is a simple boiler plate to start a js library project, with gulp automation setup for minification. (to be updated for more things). 
+You are searching for a good library that offer beautiful spinner|loader|sprites. Easy to use. A consise API, to manipulate different aspects of personalisation (show, hide, back black or not black background, precise container you want to show the spinner on, possibility for precising your own loader dom, classes names ...). Very personalisable. 
 
-(current gulp version = 4)
+LoadingSprite is simple and offer that (very small as for the objective we don't need a lot of things). 
 
-Watcher (update only the changed or added files)
+It laverage for you some spinners by default. Of wich the Popular cool work SpinKit (that offer 11 spinner).
 
-
-```
-> gulp
-```
-to start the watcher
+# API:
 
 
-```
-> gulp minify
-```
-to minify all the files in `src`.
+
+
+
+[
+    This micro library is just a small work. It's too simple.  I may add more features along the days. If you have any feature in mind, fill an issue. Any suggestion and recomendation are appreciated. 
+]
 
