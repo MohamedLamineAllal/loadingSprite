@@ -23,11 +23,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "laravel-mix",
-    "glob",
-    "feature",
-    "support",
-    "assets"
+    "loading",
+    "sprite",
+    "animation",
+    "js",
+    "progress"
   ],
   "author": "Mohamed Lamine Allal",
   "license": "MIT"
