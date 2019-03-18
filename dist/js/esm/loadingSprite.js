@@ -1,5 +1,3 @@
-//loaderClass, container, blackBack, zIndex, backBackground 
-
 export default function LoadingSprite(options) {
     if (!options) options = {};
 
@@ -17,8 +15,6 @@ export default function LoadingSprite(options) {
     this.holderStyle = options.holderStyle;
     this.lhstyl.style(Object.assign({}, {
         'display': 'none',
-        // 'align-items': 'center',
-        // 'justify-content': 'center',
         'width': '100%',
         'height': '100%',
         "zIndex": this.zIndex,
@@ -95,9 +91,6 @@ export default function LoadingSprite(options) {
         return this;
     }
     p.containerPositionCheck = function () {
-        // if (this.container.style.position !== 'relative' && this.container.style.position !== 'absolute' && this.container.style.position !== 'fixed') {
-        //     this.container.style.position = 'relative';
-        // }
     }
 })(LoadingSprite.prototype);
 
